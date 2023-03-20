@@ -1,0 +1,12 @@
+models/sequelII/v1.0-alpha/diposition/methylated_17.dipositionkineticmodel.gz filter=lfs diff=lfs merge=lfs -text
+models/sequelII/v1.0-alpha/diposition/unmethylated_17.dipositionkineticmodel.gz filter=lfs diff=lfs merge=lfs -text
+models/sequelII/v1.0-alpha/diposition_normalized/methylated_norm11_17.dipositionnormalizedkineticmodel.gz filter=lfs diff=lfs merge=lfs -text
+models/sequelII/v1.0-alpha/diposition_normalized/unmethylated_norm11_17.dipositionnormalizedkineticmodel.gz filter=lfs diff=lfs merge=lfs -text
+models/sequelII/v1.0-alpha/normalized/methylated_norm11_17.normalizedkineticmodel.gz filter=lfs diff=lfs merge=lfs -text
+models/sequelII/v1.0-alpha/normalized/unmethylated_norm11_17.normalizedkineticmodel.gz filter=lfs diff=lfs merge=lfs -text
+models/sequelII/v1.0-alpha/pairwise_normalized/methylated_norm11_17.pairwisenormalizedkineticmodel.gz filter=lfs diff=lfs merge=lfs -text
+models/sequelII/v1.0-alpha/pairwise_normalized/unmethylated_norm11_17.pairwisenormalizedkineticmodel.gz filter=lfs diff=lfs merge=lfs -text
+models/sequelII/v1.0-alpha/pairwise/methylated_17.pairwisekineticmodel.gz filter=lfs diff=lfs merge=lfs -text
+models/sequelII/v1.0-alpha/pairwise/unmethylated_17.pairwisekineticmodel.gz filter=lfs diff=lfs merge=lfs -text
+models/sequelII/v1.0-alpha/raw/methylated_17.rawkineticmodel.gz filter=lfs diff=lfs merge=lfs -text
+models/sequelII/v1.0-alpha/raw/unmethylated_17.rawkineticmodel.gz filter=lfs diff=lfs merge=lfs -text
